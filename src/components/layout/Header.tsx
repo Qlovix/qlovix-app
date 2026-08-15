@@ -3,11 +3,10 @@ import SignatureMark from "@/components/ui/SignatureMark";
 
 const links = [
   { href: "#capabilities", label: "Capabilities" },
-  { href: "#work", label: "Work" },
   { href: "#process", label: "Process" },
-  { href: "#why", label: "Philosophy" },
   { href: "#technology", label: "Technology" },
 ];
+
 
 export default function Header() {
   return (
