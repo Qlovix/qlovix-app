@@ -5,7 +5,7 @@ const capabilities = [
   {
     code: "SYS · AI SYSTEMS",
     title: "Models that make decisions, not just predictions.",
-    desc: "We design and ship AI systems that sit inside real workflows — reasoning over your data, not just summarizing it.",
+    desc: "We design and ship AI systems that sit inside real workflows - reasoning over your data, not just summarizing it.",
     glyph: (
       <svg viewBox="0 0 100 100" fill="none">
         <circle cx="50" cy="50" r="30" stroke="#5c86ff" strokeWidth="1" />
