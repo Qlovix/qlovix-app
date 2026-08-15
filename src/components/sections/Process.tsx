@@ -9,7 +9,7 @@ const steps = [
   {
     n: "01",
     title: "Discover",
-    desc: "We study the business before the brief — market, operations, and where value actually leaks.",
+    desc: "We study the business before the brief - market, operations, and where value actually leaks.",
   },
   {
     n: "02",
@@ -24,7 +24,7 @@ const steps = [
   {
     n: "04",
     title: "Build",
-    desc: "Production-grade engineering from day one — no throwaway prototypes.",
+    desc: "Production-grade engineering from day one - no throwaway prototypes.",
   },
   {
     n: "05",
@@ -34,7 +34,7 @@ const steps = [
   {
     n: "06",
     title: "Optimize",
-    desc: "The system keeps improving after launch — informed by what the data actually shows.",
+    desc: "The system keeps improving after launch - informed by what the data actually shows.",
   },
 ];
 
