@@ -14,7 +14,7 @@ export default function Philosophy() {
         <Reveal delay={0.15}>
           <p className="text-base leading-[1.75] text-ink-dim font-light max-w-[480px]">
             Software tells a business what happened. Intelligence tells it
-            what to do next. QLOVIX exists in that second category —
+            what to do next. QLOVIX exists in that second category -
             designing the systems, interfaces and automations that let
             ambitious companies think and move faster than their market.
           </p>
