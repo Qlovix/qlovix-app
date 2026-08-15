@@ -1,4 +1,3 @@
-import Link from "next/link";
 import SignatureMark from "@/components/ui/SignatureMark";
 
 const links = [
@@ -7,28 +6,27 @@ const links = [
   { href: "#technology", label: "Technology" },
 ];
 
-
 export default function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-100 flex items-center justify-between px-[6vw] py-6 md:py-[26px]">
-      <Link
+      <a
         href="#hero"
         className="flex items-center gap-2.5 font-serif text-xl tracking-tight"
       >
         <SignatureMark className="w-[22px] h-[22px]" />
         QLOVIX
-      </Link>
+      </a>
 
       <nav className="hidden md:flex gap-10 text-[13px] text-ink-dim">
         {links.map((l) => (
-          <Link
+          <a
             key={l.href}
             href={l.href}
             className="relative py-1 hover:text-ink transition-colors group"
           >
             {l.label}
             <span className="absolute left-0 bottom-0 w-0 h-px bg-blue transition-all duration-300 group-hover:w-full" />
-          </Link>
+          </a>
         ))}
       </nav>
 
