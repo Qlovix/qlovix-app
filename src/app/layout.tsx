@@ -14,7 +14,7 @@ import "./globals.css";
 import SmoothScroll from "@/components/layout/SmoothScroll";
 
 export const metadata: Metadata = {
-  title: "QLOVIX — Building Intelligence. Driving Innovation.",
+  title: "QLOVIX - Building Intelligence. Driving Innovation.",
   description:
     "QLOVIX is a global AI and digital transformation company. We help ambitious businesses grow through AI, intelligent software, and engineered digital experiences.",
 };
