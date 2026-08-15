@@ -27,7 +27,7 @@ export default function Footer() {
               links={[
                 { href: "#", label: "LinkedIn" },
                 { href: "mailto:info@qlovix.com", label: "Email" },
-                { href: "tel:#", label: "Contact" },
+                { href: "tel:+918861141189", label: "Contact" },
               ]}
             />
           </div>
