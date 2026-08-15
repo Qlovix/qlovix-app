@@ -17,7 +17,7 @@ const capabilities = [
   {
     code: "WEB · ENTERPRISE WEBSITES",
     title: "Editorial-grade sites for companies with something to prove.",
-    desc: "Precision typography, considered motion, and engineering discipline — websites built to change how a market perceives you.",
+    desc: "Precision typography, considered motion, and engineering discipline - websites built to change how a market perceives you.",
     glyph: (
       <svg viewBox="0 0 100 100" fill="none">
         <rect x="20" y="20" width="60" height="60" stroke="#5c86ff" strokeWidth="1" />
@@ -29,7 +29,7 @@ const capabilities = [
   {
     code: "PRD · DIGITAL PRODUCTS",
     title: "Applications engineered for scale from line one.",
-    desc: "From internal tools to customer-facing platforms — architected, tested, and built to hold up under real usage.",
+    desc: "From internal tools to customer-facing platforms - architected, tested, and built to hold up under real usage.",
     glyph: (
       <svg viewBox="0 0 100 100" fill="none">
         <path d="M30 70 L50 30 L70 70 Z" stroke="#5c86ff" strokeWidth="1" />
@@ -72,7 +72,7 @@ const capabilities = [
   {
     code: "AUT · AUTOMATION",
     title: "The quiet infrastructure that removes 40 hours a week.",
-    desc: "Workflow automation designed around how your team actually operates — not a generic playbook.",
+    desc: "Workflow automation designed around how your team actually operates - not a generic playbook.",
     glyph: (
       <svg viewBox="0 0 100 100" fill="none">
         <circle cx="30" cy="30" r="6" stroke="#5c86ff" strokeWidth="1" />
